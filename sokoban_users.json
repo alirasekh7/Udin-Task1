@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "password_hash": "713bfda78870bf9d1b261f565286f85e97ee614efe5f0faf7c34e7ca4f65baca",
+        "role": "admin",
+        "scores": {}
+    },
+    "ali": {
+        "password_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "role": "player",
+        "scores": {}
+    }
+}

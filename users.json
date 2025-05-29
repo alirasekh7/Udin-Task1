@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": 2
+    },
+    "ali": {
+        "password": "1234",
+        "role": 1
+    },
+    "alir": {
+        "password": "12345",
+        "role": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "demo_level": {
+        "name": "Demo Level",
+        "layout": [
+            "#####",
+            "#pbt#",
+            "#####"
+        ],
+        "creator": "System",
+        "difficulty": "Easy"
+    }
+}
